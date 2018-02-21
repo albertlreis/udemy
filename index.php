@@ -21,11 +21,18 @@ require_once ("config.php");
 //echo $usuario;
 
 //Inserir novo usuário
+//$aluno = new Usuario("aluno","123456");
+//$aluno->insert();
+//echo $aluno;
 
-$aluno = new Usuario("aluno","123456");
+//Atualizar usuários
 
-$aluno->insert();
+$usuario = new Usuario();
 
-echo $aluno;
+$usuario->loadById(6);
+
+$usuario->update("professor", "!@#");
+
+echo $usuario;
 
 ?>
