@@ -20,4 +20,12 @@ require_once ("config.php");
 //$usuario->login("albert", "123456");
 //echo $usuario;
 
+//Inserir novo usuário
+
+$aluno = new Usuario("aluno","123456");
+
+$aluno->insert();
+
+echo $aluno;
+
 ?>
