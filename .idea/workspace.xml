@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c01d6bd-96ef-4c5e-ac47-2118e271e442" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/exemplo-11.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/email/contents.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/email/index.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/boletophp" afterPath="$PROJECT_DIR$/boletophp" />
-      <change beforePath="$PROJECT_DIR$/fonts/Bevan/exemplo-11.php" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,11 +20,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="exemplo-11.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="exemplo-11.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exemplo-11.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/email/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/email/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contents.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/email/contents.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="45" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -63,6 +93,9 @@
         <option value="$PROJECT_DIR$/boletophp/boleto_itau.php" />
         <option value="$PROJECT_DIR$/exemplo-11.php" />
         <option value="$PROJECT_DIR$/composer/composer.json" />
+        <option value="$PROJECT_DIR$/email/composer.json" />
+        <option value="$PROJECT_DIR$/email/contents.html" />
+        <option value="$PROJECT_DIR$/email/index.php" />
       </list>
     </option>
   </component>
@@ -116,6 +149,11 @@
               <item name="composer" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="hcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hcode" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="email" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -155,12 +193,12 @@
       <workItem from="1519145282308" duration="1536000" />
       <workItem from="1519215011729" duration="10496000" />
       <workItem from="1519301818340" duration="12710000" />
-      <workItem from="1519317182774" duration="998000" />
+      <workItem from="1519317182774" duration="2362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25740000" />
+    <option name="totallyTimeSpent" value="27104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -420,6 +458,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email/contents.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="45" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
           <folding />
         </state>
       </provider>
