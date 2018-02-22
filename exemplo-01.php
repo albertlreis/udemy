@@ -11,6 +11,8 @@
 
 <?php
 
+/* Download de Arquivos */
+
 $link = "https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png";
 
 $content = file_get_contents($link);
@@ -25,6 +27,10 @@ fwrite($file, $content);
 
 fclose($file);
 
+/* Download de Arquivos */
+
+
+/* Upload de Arquivos */
 
 if ($_SERVER["REQUEST_METHOD"] === "POST"){
 
@@ -55,6 +61,33 @@ if ($_SERVER["REQUEST_METHOD"] === "POST"){
     }
 
 }
-?>
 
-<img src="<?=$basename?>">
+/* Upload de Arquivos */
+
+/* Renomeando Arquivos*/
+
+$dir1 = "folder_01";
+$dir2 = "folder_02";
+
+if (!is_dir($dir1)) mkdir($dir1);
+if (!is_dir($dir2)) mkdir($dir2);
+
+$filename = "README.txt";
+
+if (!file_exists($dir1 . DIRECTORY_SEPARATOR . $filename)){
+
+    $file = fopen($dir1 . DIRECTORY_SEPARATOR . $filename, "w+");
+
+    fwrite($file, date("Y-m-d H:i:s"));
+
+}
+
+rename(
+        $dir1 . DIRECTORY_SEPARATOR . $filename,
+        $dir2 . DIRECTORY_SEPARATOR . $filename
+);
+
+/* Renomeando Arquivos*/
+
+
+?>
