@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c01d6bd-96ef-4c5e-ac47-2118e271e442" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/exemplo-04.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exemplo-05.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exemplo-06.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,21 +26,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exemplo-03.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exemplo-03.php">
+      <file leaf-file-name="exemplo-05.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exemplo-05.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="255">
+              <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exemplo-04.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exemplo-04.php">
+      <file leaf-file-name="exemplo-06.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exemplo-06.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="442">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -60,6 +62,8 @@
         <option value="$PROJECT_DIR$/exmplo-03.php" />
         <option value="$PROJECT_DIR$/exemplo-03.php" />
         <option value="$PROJECT_DIR$/exemplo-04.php" />
+        <option value="$PROJECT_DIR$/exemplo-05.php" />
+        <option value="$PROJECT_DIR$/exemplo-06.php" />
       </list>
     </option>
   </component>
@@ -145,12 +149,12 @@
       <updated>1519145281130</updated>
       <workItem from="1519145282308" duration="1536000" />
       <workItem from="1519215011729" duration="10496000" />
-      <workItem from="1519301818340" duration="4817000" />
+      <workItem from="1519301818340" duration="6072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16849000" />
+    <option name="totallyTimeSpent" value="18104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -326,10 +330,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/exemplo-04.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -342,10 +346,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exemplo-04.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="663">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googlelogo_color_272x92dp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exemplo-05.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exemplo-06.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding />
         </state>
       </provider>
