@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c01d6bd-96ef-4c5e-ac47-2118e271e442" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/website/composer.json" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/boletophp" afterPath="$PROJECT_DIR$/boletophp" />
-      <change beforePath="$PROJECT_DIR$/website/index.php" afterPath="$PROJECT_DIR$/website/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,31 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/website/composer.json">
+      <file leaf-file-name="exemplo-01.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/seguranca/exemplo-01.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/website/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/website/.htaccess">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -94,6 +71,7 @@
         <option value="$PROJECT_DIR$/tpl/email.php" />
         <option value="$PROJECT_DIR$/website/composer.json" />
         <option value="$PROJECT_DIR$/website/index.php" />
+        <option value="$PROJECT_DIR$/seguranca/exemplo-01.php" />
       </list>
     </option>
   </component>
@@ -139,7 +117,7 @@
             <path>
               <item name="hcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="hcode" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="website" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="seguranca" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -181,12 +159,12 @@
       <workItem from="1519215011729" duration="10496000" />
       <workItem from="1519301818340" duration="12710000" />
       <workItem from="1519317182774" duration="2362000" />
-      <workItem from="1519385876533" duration="8997000" />
+      <workItem from="1519385876533" duration="10046000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36101000" />
+    <option name="totallyTimeSpent" value="37150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -428,20 +406,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fonts/Bevan/exemplo-11.php" />
-    <entry file="file://$PROJECT_DIR$/boletophp/boleto_itau.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="733">
-          <caret line="88" column="37" lean-forward="true" selection-start-line="88" selection-start-column="37" selection-end-line="88" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/boletophp/include/layout_itau.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="64" column="65" lean-forward="false" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exemplo-10.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -554,6 +518,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/website/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/website/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -562,10 +534,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/index.php">
+    <entry file="file://$PROJECT_DIR$/boletophp/include/layout_itau.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="799">
+          <caret line="64" column="65" lean-forward="false" selection-start-line="64" selection-start-column="51" selection-end-line="64" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boletophp/boleto_itau.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="88" column="37" lean-forward="true" selection-start-line="88" selection-start-column="37" selection-end-line="88" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seguranca/exemplo-01.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding />
         </state>
       </provider>
